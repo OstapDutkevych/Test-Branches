@@ -1,3 +1,4 @@
 Hello I'm Octopus
 I have glasses.txt.
-And I have no hat.
+And I have hat.txt.
+
